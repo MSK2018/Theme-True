@@ -1,17 +1,14 @@
-<?php
-	class MyClass{
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<p>helo git</p>
 
-	public static $a;
-	public static $b = 'this is b';
-	private static $c = 20;
-	protected static $d = 'pro';
-	public function sterling(){
-			return 'b.blog status'
-	}
-		public static function rahim(){
-		echo self::c;
-		}
-
-}
-$raimsterling = new myclass;
-	$raimsterling->sterling();
+</body>
+</html>
